@@ -59,8 +59,3 @@ Bit_Wait    NOP			    ;1us x 24
             RETURN		    ;2us
 	
 	end
-
-
-
-
-
